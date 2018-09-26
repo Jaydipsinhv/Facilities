@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/sublime/Workspace/Facilities/android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_pepperoni.png",
+        "source": "/home/sublime/Workspace/Facilities/android/app/src/main/res/mipmap-xxhdpi/ic_pepperoni.png"
+    },
+    {
+        "merged": "/home/sublime/Workspace/Facilities/android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/home/sublime/Workspace/Facilities/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    }
+]
